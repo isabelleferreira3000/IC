@@ -1,0 +1,345 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{PSO}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KJ}{%
+         family={Kennedy},
+         familyi={K\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KJ1}
+    \strng{fullhash}{KJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{760\bibrangedash 766}
+    \field{title}{Particle swarm optimization}
+    \field{journaltitle}{Encyclopedia of machine learning}
+    \field{year}{2010}
+  \endentry
+
+  \entry{genetico}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DL}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Lawrence},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CUMINCAD}%
+    }
+    \strng{namehash}{DL1}
+    \strng{fullhash}{DL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Handbook of genetic algorithms}
+    \field{year}{1991}
+  \endentry
+
+  \entry{CMA-ES-Soccer}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=UD}{%
+         family={Urieli},
+         familyi={U\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={MacAlpine},
+         familyi={M\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kalyanakrishnan},
+         familyi={K\bibinitperiod},
+         given={Shivaram},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bentor},
+         familyi={B\bibinitperiod},
+         given={Yinon},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Stone},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{2}{%
+      {International Foundation for Autonomous Agents}%
+      {Multiagent Systems}%
+    }
+    \strng{namehash}{UDMPKS+1}
+    \strng{fullhash}{UDMPKSBYSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{The 10th International Conference on Autonomous Agents
+  and Multiagent Systems-Volume 2}
+    \field{pages}{769\bibrangedash 776}
+    \field{title}{On optimizing interdependent skills: A case study in
+  simulated 3D humanoid robot soccer}
+    \field{year}{2011}
+  \endentry
+
+  \entry{matlab}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=GM}{%
+         family={Grant},
+         familyi={G\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Boyd},
+         familyi={B\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Yinyu},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMBSYY1}
+    \strng{fullhash}{GMBSYY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{CVX: Matlab software for disciplined convex programming}
+    \field{year}{2008}
+  \endentry
+
+  \entry{cbr2008}{misc}{}
+    \field{note}{http://www.cbrobotica.
+  org/wp-content/uploads/2014/03/VerySmall2008\_en.pdf}
+  \endentry
+
+  \entry{small_vision}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=ZS}{%
+         family={Zickler},
+         familyi={Z\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Laue},
+         familyi={L\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BO}{%
+         family={Birbach},
+         familyi={B\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wongphati},
+         familyi={W\bibinitperiod},
+         given={Mahisorn},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Veloso},
+         familyi={V\bibinitperiod},
+         given={Manuela},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ZSLTBO+1}
+    \strng{fullhash}{ZSLTBOWMVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Robot Soccer World Cup}
+    \field{pages}{425\bibrangedash 436}
+    \field{title}{SSL-vision: The shared vision system for the RoboCup Small
+  Size League}
+    \field{year}{2009}
+  \endentry
+
+  \entry{univector}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=LY}{%
+         family={Lim},
+         familyi={L\bibinitperiod},
+         given={YS},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CSH}{%
+         family={Choi},
+         familyi={C\bibinitperiod},
+         given={Seung-Hwan},
+         giveni={S\bibinitperiod-H\bibinitperiod},
+      }}%
+      {{hash=KJH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jong-Hwan},
+         giveni={J\bibinitperiod-H\bibinitperiod},
+      }}%
+      {{hash=KDH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Dong-Han},
+         giveni={D\bibinitperiod-H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LYCSHKJH+1}
+    \strng{fullhash}{LYCSHKJHKDH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. 17th World Congress The International Federation of
+  Automatic Control, Seoul, Korea (July 2008)}
+    \field{title}{Evolutionary univector field-based navigation with collision
+  avoidance for mobile Robot}
+    \field{year}{2008}
+  \endentry
+
+  \entry{potential_fields}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=KY}{%
+         family={Koren},
+         familyi={K\bibinitperiod},
+         given={Yoram},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Borenstein},
+         familyi={B\bibinitperiod},
+         given={Johann},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{KYBJ1}
+    \strng{fullhash}{KYBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Robotics and Automation, 1991. Proceedings., 1991 IEEE
+  International Conference on}
+    \field{pages}{1398\bibrangedash 1404}
+    \field{title}{Potential field methods and their inherent limitations for
+  mobile robot navigation}
+    \field{year}{1991}
+  \endentry
+
+  \entry{CMA-ES}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HN}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Nikolaus},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Ostermeier},
+         familyi={O\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{HNOA1}
+    \strng{fullhash}{HNOA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{159\bibrangedash 195}
+    \field{title}{Completely derandomized self-adaptation in evolution
+  strategies}
+    \field{volume}{9}
+    \field{journaltitle}{Evolutionary computation}
+    \field{year}{2001}
+  \endentry
+
+  \entry{protobuf}{misc}{}
+  \field{note}{https://developers.google.com/protocol-buffers/docs/cpptutorial}
+  \endentry
+
+  \entry{ODE}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AK}{%
+         family={Ahnert},
+         familyi={A\bibinitperiod},
+         given={Karsten},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mulansky},
+         familyi={M\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {AIP}%
+    }
+    \strng{namehash}{AKMM1}
+    \strng{fullhash}{AKMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{AIP Conference Proceedings}
+    \field{number}{1}
+    \field{pages}{1586\bibrangedash 1589}
+    \field{title}{Odeint--solving ordinary differential equations in C++}
+    \field{volume}{1389}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Ogre}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KF}{%
+         family={Kerger},
+         familyi={K\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Packt Publishing Ltd}%
+    }
+    \strng{namehash}{KF1}
+    \strng{fullhash}{KF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{OGRE 3D 1.7 Beginner's Guide}
+    \field{year}{2010}
+  \endentry
+\enddatalist
+\endinput
